@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Selvaraj</h1>
 <h3 align="center">I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS. I am passionate about Web Dev & I enjoy learning new things.</h3>
 
-### "Code until you find your solution"! 👋
+### "Code until you find your solution"! ✌️
 ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard2415&label=Profile%20views&color=0e75b6&style=flat" alt="richard2415" /> </p>
