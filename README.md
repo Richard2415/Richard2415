@@ -1,4 +1,3 @@
-# richard
 <h1 align="center">Hi 👋, I'm Richard Selvaraj</h1>
 <h3 align="center">I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS. I am passionate about Web Dev & I enjoy learning new things.</h3>
 
