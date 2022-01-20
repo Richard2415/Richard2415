@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richard2415" alt="richard2415" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://richard-portfolio-final.netlify.app/](https://richard-portfolio-final.netlify.app/)
+- 👨‍💻 All of my Full Stack projects are available at [https://richard-portfolio-final.netlify.app/](https://richard-portfolio-final.netlify.app/)
 
 - 📫 How to reach me **richardselvaraj07@gmail.com**
 
