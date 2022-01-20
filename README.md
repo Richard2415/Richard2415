@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard2415&label=Profile%20views&color=0e75b6&style=flat" alt="richard2415" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richard2415" alt="richard2415" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨‍💻 All of my Full Stack projects are available at [https://richard-portfolio-final.netlify.app/](https://richard-portfolio-final.netlify.app/)
 
